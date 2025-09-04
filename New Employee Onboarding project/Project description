@@ -1,0 +1,27 @@
+🚀 New Employee Onboarding – ServiceNow Automation
+This project automates the New Employee Onboarding process in ServiceNow using Flow Designer. Instead of handling onboarding tasks manually across multiple departments (HR, IT, Facilities, etc.), this automation ensures that everything is triggered, tracked, and completed in a structured workflow.
+🔹 Key Features
+Automated Onboarding Flow: End-to-end onboarding process designed with Flow Designer.
+Task Orchestration: Automatically creates and assigns tasks to relevant departments (HR, IT, Facilities, Manager).
+Notifications & Approvals: Sends notifications to stakeholders and handles approvals where required.
+Integration Ready: Can integrate with Active Directory, Email, and other enterprise tools.
+Scalable & Reusable: Designed as a template that can be adapted for different organizations.
+🔹 Business Benefits
+Faster and more consistent onboarding experience for new employees.
+Reduced manual effort and errors in provisioning access, equipment, and accounts.
+Enhanced collaboration across teams through ServiceNow’s centralized platform.
+Improved employee experience from day one.
+🔹 Tech Stack
+Platform: ServiceNow
+Automation Tool: Flow Designer
+Modules Used: Service Catalog, Approvals, Notifications, Task Management
+🔹 Use Case Flow (Example)
+HR submits a New Hire Request in ServiceNow.
+Flow Designer triggers onboarding tasks:
+Create IT account (Active Directory, Email, etc.)
+Assign laptop/desktop from IT
+Prepare seating from Facilities
+Notify Manager & Employee with onboarding checklist
+All tasks tracked in ServiceNow until completion.
+
+👉 This repository documents the setup, configuration, and Flow Designer logic to help others implement automated employee onboarding in ServiceNow.
